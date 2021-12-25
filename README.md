@@ -129,3 +129,4 @@
 4.6 stacking 融合
 
 # 更多学习笔记，请关注公众号【杰然不同之GR】 #
+![公众号二维码](https://github.com/1307JJLin/AnnualCardAnalysis/blob/main/QR.jpg)
